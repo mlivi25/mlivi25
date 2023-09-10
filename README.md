@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..
 - Web, API, and Cloud Technologies
 - 🌱 I’m currently learning ...
-- Rust, C++, and AWS + Terraform
+- AWS + Terraform
 - 📫 How to reach me ...
 - mitchlivingston25@gmail.com
 <!---
